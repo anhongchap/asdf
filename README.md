@@ -1,7 +1,7 @@
 # Feature-Compatible Embeddings
 This is the official PyTorch code for the paper:
 
-**A Class-Incremental Learning Approach for Learning Feature-Compatible Embeddings.**
+**CIACB-CIL: Causal Inference for Addressing Contextual Biases in Class-Incremental Learning.**
 
 **Jing Yang**, **Hongchao An**,  **Xiuhua Zhang**,  **Yuling Chen**,  **Wei Zhang**, **Chengjiang Li**, **Xiaoli Ruan**, **Zhidong Su**
 
